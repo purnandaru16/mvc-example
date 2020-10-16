@@ -15,7 +15,7 @@
 </head>
 <body>
 <h1>Hello world!</h1>
-<p>ini push ke branch 1</p>
+<h1>branch 2</h1>
 <h2>${message}</h2>
 <p>The time on the server is ${serverTime}.</p>
 
